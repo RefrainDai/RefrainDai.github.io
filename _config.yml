@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Minghao Dai / Academic Portfolio"
+title                    : "Minghao Dai / Personal Page"
 title_separator          : "-"
 name                     : &name "Minghao Dai"
 description              : &description "Undergraduate student in Electronic Information Science and Technology at Beijing University of Posts and Telecommunications"   
